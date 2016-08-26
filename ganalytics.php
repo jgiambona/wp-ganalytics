@@ -2,7 +2,7 @@
 /*
 Plugin Name: Google Analytics
 Plugin URI: https://www.beamspace.com/
-Description: Adds a Google analytics trascking code to the <head> of your theme, by hooking to wp_head.
+Description: Adds a Google analytics tracking code to the <head> of your theme, by hooking to wp_head.
 Author: Jason Giambona
 Version: 1.0
  */
